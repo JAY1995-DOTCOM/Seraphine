@@ -1,3 +1,6 @@
+Seraphine
+A local, stateful conversational AI runtime focused on identity continuity, epistemic integrity, and long-horizon interaction.
+
 ## Why This Exists
 
 Most conversational AI systems are stateless, disposable, and forgetful.
@@ -8,9 +11,6 @@ and time awareness are treated as first-class features instead of add-ons.
 
 <img width="1273" height="1026" alt="Screenshot 2026-01-11 212346" src="https://github.com/user-attachments/assets/d9042e55-b9f9-4e0d-a6f7-e70f8babc2d8" />
 
-
-# Seraphine
-Local conversational AI runtime with identity enforcement, time awareness, and state continuity.
 # Seraphine Runtime
 
 Seraphine is a local conversational AI runtime designed to prioritize
