@@ -1,3 +1,12 @@
+## Why This Exists
+
+Most conversational AI systems are stateless, disposable, and forgetful.
+Seraphine was built to explore what happens when continuity, identity,
+and time awareness are treated as first-class features instead of add-ons.
+
+<img width="1910" height="811" alt="Screenshot 2026-01-11 211636" src="https://github.com/user-attachments/assets/24784e0e-6773-4948-a4dd-87af74b4e1ef" />
+
+
 # Seraphine
 Local conversational AI runtime with identity enforcement, time awareness, and state continuity.
 # Seraphine Runtime
