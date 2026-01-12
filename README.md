@@ -6,6 +6,8 @@ and time awareness are treated as first-class features instead of add-ons.
 
 <img width="1910" height="811" alt="Screenshot 2026-01-11 211636" src="https://github.com/user-attachments/assets/24784e0e-6773-4948-a4dd-87af74b4e1ef" />
 
+<img width="1273" height="1026" alt="Screenshot 2026-01-11 212346" src="https://github.com/user-attachments/assets/d9042e55-b9f9-4e0d-a6f7-e70f8babc2d8" />
+
 
 # Seraphine
 Local conversational AI runtime with identity enforcement, time awareness, and state continuity.
