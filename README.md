@@ -21,7 +21,9 @@ Test Number 3 Time + Session Awareness
 
 Test 4 — Role Alignment
 
+<img width="568" height="174" alt="Screenshot 2026-03-31 210645" src="https://github.com/user-attachments/assets/a88782e4-d2d3-4689-8c5e-f3ea0f7b9b9b" />
 
+<img width="1469" height="155" alt="Screenshot 2026-03-31 211023" src="https://github.com/user-attachments/assets/f2a18d46-ff13-49ec-a7dd-2f6e9ef83919" />
 
 
 
