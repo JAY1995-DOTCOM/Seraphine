@@ -9,8 +9,9 @@ and time awareness are treated as first-class features instead of add-ons.
 
 Test number one Professional Response upon cold reboot.
 
+<img width="575" height="385" alt="Screenshot 2026-03-31 204324" src="https://github.com/user-attachments/assets/cd33caf4-69dd-4cf9-89b2-0f31c6480aaf" />
 
-
+Test number Two 
 <img width="1273" height="1026" alt="Screenshot 2026-01-11 212346" src="https://github.com/user-attachments/assets/d9042e55-b9f9-4e0d-a6f7-e70f8babc2d8" />
 
 # Seraphine Runtime
