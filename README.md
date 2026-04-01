@@ -7,7 +7,9 @@ Most conversational AI systems are stateless, disposable, and forgetful.
 Seraphine was built to explore what happens when continuity, identity,
 and time awareness are treated as first-class features instead of add-ons.
 
-<img width="1910" height="811" alt="Screenshot 2026-01-11 211636" src="https://github.com/user-attachments/assets/24784e0e-6773-4948-a4dd-87af74b4e1ef" />
+Test number one Professional Response upon cold reboot.
+
+
 
 <img width="1273" height="1026" alt="Screenshot 2026-01-11 212346" src="https://github.com/user-attachments/assets/d9042e55-b9f9-4e0d-a6f7-e70f8babc2d8" />
 
