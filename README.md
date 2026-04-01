@@ -17,12 +17,8 @@ Test number Two Capability Explanation
 
 Test Number 3 Time + Session Awareness
 
+
 Test 4 — Role Alignment
-
-
-<img width="455" height="161" alt="Screenshot 2026-03-31 205254" src="https://github.com/user-attachments/assets/e83ac553-28b8-43c3-92dd-9fa4d3a1e120" />
-
-<img width="1469" height="155" alt="Screenshot 2026-03-31 211023" src="https://github.com/user-attachments/assets/7b90c66d-7c89-423a-bbf3-8024f4441156" />
 
 
 <img width="455" height="161" alt="Screenshot 2026-03-31 205254" src="https://github.com/user-attachments/assets/e83ac553-28b8-43c3-92dd-9fa4d3a1e120" />
