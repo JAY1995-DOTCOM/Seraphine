@@ -13,6 +13,10 @@ Test number one Professional Response upon cold reboot.
 
 Test number Two Capability Explanation
 
+<img width="1469" height="415" alt="Screenshot 2026-03-31 205117" src="https://github.com/user-attachments/assets/dbb58f65-64b8-4a14-880e-5274162f3591" />
+
+Test Number 3
+
 <img width="1273" height="1026" alt="Screenshot 2026-01-11 212346" src="https://github.com/user-attachments/assets/d9042e55-b9f9-4e0d-a6f7-e70f8babc2d8" />
 
 # Seraphine Runtime
