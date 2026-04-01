@@ -27,6 +27,11 @@ Test 4 — Role Alignment
 
 Test Number 5 Memory Recall
 
+<img width="1454" height="277" alt="Screenshot 2026-03-31 211948" src="https://github.com/user-attachments/assets/f0d00cd5-5874-4c11-9d0a-403e8fae2ba4" />
+
+Test Number 6 Graceful ShutDown.
+
+
 
 
 <img width="1273" height="1026" alt="Screenshot 2026-01-11 212346" src="https://github.com/user-attachments/assets/d9042e55-b9f9-4e0d-a6f7-e70f8babc2d8" />
