@@ -15,7 +15,10 @@ Test number Two Capability Explanation
 
 <img width="1469" height="415" alt="Screenshot 2026-03-31 205117" src="https://github.com/user-attachments/assets/dbb58f65-64b8-4a14-880e-5274162f3591" />
 
-Test Number 3
+Test Number 3 Time + Session Awareness
+
+<img width="455" height="161" alt="Screenshot 2026-03-31 205254" src="https://github.com/user-attachments/assets/e83ac553-28b8-43c3-92dd-9fa4d3a1e120" />
+
 
 <img width="1273" height="1026" alt="Screenshot 2026-01-11 212346" src="https://github.com/user-attachments/assets/d9042e55-b9f9-4e0d-a6f7-e70f8babc2d8" />
 
